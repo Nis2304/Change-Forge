@@ -16,6 +16,8 @@ Change Forge is more than a bridge between investors and project providers; it's
 
 --**A Quick Flow**--
 
+![Screenshot 2024-05-12 094827](https://github.com/Nis2304/Change-Forge/assets/143434710/33b9ec10-2817-40b7-9af5-415988342c04)
+
                   
                    +---------------------------------------+
                     |            Change Forge               |
